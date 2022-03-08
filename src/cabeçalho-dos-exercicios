@@ -10,6 +10,7 @@ Usando While
    menos uma de duas coordenadas for NULA (nesta situação sem escrever mensagem alguma).
 
    Exemplo:
+
    Entrada:
    2 2
    3 -2
@@ -45,3 +46,14 @@ Usando While
    Alcool: 1
    Gasolina: 2
    Diesel: 0
+
+ For
+
+ 1- Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o
+    X, se for o caso.
+    Exemplo:
+    Entrada: Saída:
+    8 1
+    3
+    5
+    7

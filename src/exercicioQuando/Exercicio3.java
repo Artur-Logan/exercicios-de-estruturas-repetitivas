@@ -1,3 +1,5 @@
+package exercicioQuando;
+
 import java.util.Scanner;
 
 public class Exercicio3 {
@@ -28,6 +30,4 @@ public class Exercicio3 {
 
         sc.close();
     }
-
-    //foi necessario verificar a resposta...
 }

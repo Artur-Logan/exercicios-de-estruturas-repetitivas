@@ -1,3 +1,5 @@
+package exercicioQuando;
+
 import java.util.Scanner;
 
 public class Exercicio1 {
@@ -7,7 +9,7 @@ public class Exercicio1 {
 
         int senha = sc.nextInt();
 
-        while(senha != 2002){
+        while (senha != 2002){
             System.out.println("SENHA INCORRETA");
             senha = sc.nextInt();
         }
